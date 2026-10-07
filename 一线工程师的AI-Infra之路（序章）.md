@@ -8,13 +8,13 @@
 
 
 
-一线工程师的[AI-Infra](https://zhida.zhihu.com/search?content_id=284605702&content_type=Article&match_order=1&q=AI-Infra&zhida_source=entity)之路 ---[NVIDIA-GPU认证](https://zhida.zhihu.com/search?content_id=284605702&content_type=Article&match_order=1&q=NVIDIA-GPU认证&zhida_source=entity)与一线服务器的落地维护经验
 
 ### **序章** **感言**
 
 本书分为三个部分，英伟达理论篇，实践操作篇和一线经验篇，本文为第一部分，后续两个部分也在紧锣密鼓的编写中。
 
 本文的诞生，需要感谢[《网络工程师的Python之路》](https://zhida.zhihu.com/search?content_id=284605702&content_type=Article&match_order=1&q=《网络工程师的Python之路》&zhida_source=entity)一书作者，[王印](https://zhida.zhihu.com/search?content_id=284605702&content_type=Article&match_order=1&q=王印&zhida_source=entity)。 
+
 
 
 
@@ -30,15 +30,18 @@
 
 
 
+
 同时感谢我的公司，给了我实践的平台，和环境。我的老板支持我的想法，赞同我的理念，容忍我的任性，给予我的足够耐心和支持。
 
 坦诚地讲，换位思考，我做不到他这样的支持力度和状态。真的是很难得的老板和Nice的环境。
 
 
 
+
 写到这里，我有很多想说的内容，但是却又不知从何说起。
 
 那就简单说一句吧。
+
 
 
 
