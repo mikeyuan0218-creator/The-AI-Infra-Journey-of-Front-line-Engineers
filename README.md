@@ -1,5 +1,6 @@
 # The-AI-Infra-Journey-of-Front-line-Engineers
 一线工程师的AI-Infra之路
+<img width="450" height="182" alt="微信图片_2026-09-29_192325_975" src="https://github.com/user-attachments/assets/4b31e321-6c5e-49c7-9542-0e1958ad4e5e" />
 
 # 版权声明
 本仓库存放本书的初稿与迭代草稿，仅供个人阅读、技术交流，著作权完全归属作者。
